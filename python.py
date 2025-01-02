@@ -1,0 +1,2 @@
+str='anil'
+print(str)
